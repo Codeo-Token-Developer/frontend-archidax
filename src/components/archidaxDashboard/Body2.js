@@ -6,7 +6,7 @@ import Stock from "./body2/Stock";
 
 export default function Body2() {
   return (
-    <div className="row m-0 p-3">
+    <div className="row m-0 p-3 position-relative top-50">
       <div className="col-md-5 col-sm-12 col-xs-12">
         <BuySellBPS />
       </div>

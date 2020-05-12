@@ -6,15 +6,15 @@ import HeaderRight from "./header/HeaderRight";
 
 export default function Header() {
   return (
-    <div class="topbar bg-darkblue">
+    <div className="topbar bg-darkblue">
       <div className="row makeCenter" style={{ height: "100px" }}>
-        <div CLASS="col-6">
+        <div className="col-6">
           <Navbar />
         </div>
-        <div CLASS="col-2">
+        <div className="col-2">
           <HeaderMiddle />
         </div>
-        <div CLASS="col-4">
+        <div className="col-4">
           <HeaderRight />
         </div>
       </div>

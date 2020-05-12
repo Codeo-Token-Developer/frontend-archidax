@@ -10191,3 +10191,9 @@ hr.thick {
 .mt-header {
   margin-top: 12rem;
 }
+
+/* CUSTOM CSS */
+
+.top-50 {
+  top: 50px !important;
+}

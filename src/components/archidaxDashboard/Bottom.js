@@ -5,7 +5,7 @@ import Copyright from "./bottom/Copyright";
 
 export default function Bottom() {
   return (
-    <div>
+    <div className="position-relative top-50">
       <Footer />
       <Copyright />
     </div>
