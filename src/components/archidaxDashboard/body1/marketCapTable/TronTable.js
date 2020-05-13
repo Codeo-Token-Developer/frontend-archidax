@@ -5,7 +5,7 @@ export default function TronTable() {
     <>
       <tr className="bg-subaru">
         <th
-          className="border-top-0 text-center text-warning2"
+          className="border-top-0 text-center text-warning2 verticalCenter"
           style={{
             display: "flex",
             flexDirection: "row",
@@ -28,10 +28,10 @@ export default function TronTable() {
             53,098ETH - 35,78 BTC
           </h5>
         </th>
-        <th className="border-top-0 text-center text-warning2">
+        <th className="border-top-0 text-center text-warning verticalCenter2">
           <h5>$554,678.0</h5>
         </th>
-        <th className="border-top-0 text-center text-success">
+        <th className="border-top-0 text-center text-success verticalCenter">
           <h5>34%</h5>
         </th>
       </tr>

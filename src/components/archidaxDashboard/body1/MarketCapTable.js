@@ -21,7 +21,7 @@ export default function MarketCapTable() {
               <th className="border-top-0 text-center text-black">Change</th>
             </tr>
           </thead>
-          <tbody className="bg-archidax">
+          <tbody className="bg-subaru">
             <BitcoinTable />
             <BinanceCoinTable />
             <CodeoTokenTable />

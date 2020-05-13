@@ -5,7 +5,7 @@ export default function CodeoTokenTable() {
     <>
       <tr className="bg-subaru">
         <th
-          className="border-top-0 text-left text-warning2"
+          className="border-top-0 text-left text-warning2 verticalCenter"
           style={{
             display: "flex",
             flexDirection: "row",
@@ -21,17 +21,17 @@ export default function CodeoTokenTable() {
           />
           <h4>Codeo Token (CODEO)</h4>
         </th>
-        <th className="border-top-0 text-center text-white">
+        <th className="border-top-0 text-center text-white verticalCenter">
           <h5>
             $50.000,56 - 545,678 BTC
             <br />
             53,098ETH - 35,78 BTC
           </h5>
         </th>
-        <th className="border-top-0 text-center text-warning2">
+        <th className="border-top-0 text-center text-warning2 verticalCenter">
           <h5>$554,678.0</h5>
         </th>
-        <th className="border-top-0 text-center text-danger">
+        <th className="border-top-0 text-center text-danger verticalCenter">
           <h5>34%</h5>
         </th>
       </tr>

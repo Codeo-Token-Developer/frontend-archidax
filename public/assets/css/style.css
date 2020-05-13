@@ -10197,3 +10197,7 @@ hr.thick {
 .top-50 {
   top: 50px !important;
 }
+
+.verticalCenter {
+  vertical-align: middle !important;
+}
