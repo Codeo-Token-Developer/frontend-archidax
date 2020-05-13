@@ -19,7 +19,6 @@ export default function MarketCapTable() {
               </th>
               <th className="border-top-0 text-center text-black">Price</th>
               <th className="border-top-0 text-center text-black">Change</th>
-              <th className="border-top-0 text-center text-black">Graph</th>
             </tr>
           </thead>
           <tbody className="bg-archidax">

@@ -3,9 +3,9 @@ import React from "react";
 export default function StockETH() {
   return (
     <>
-      <div className="row ">
-        <div className="col-5"></div>
-        <div className="col-7">
+      <div className="row">
+        <div className="col-5 makeCenter p-0">Chart</div>
+        <div className="col-7 p-2">
           <h6 className="text-center text-white">0,4512683 BTC</h6>
           <h6 className="text-center text-danger">-0,6%</h6>
           <div className=" text-center">

@@ -22,20 +22,17 @@ export default function EthereumTable() {
           <h4>Ethereum (ETH)</h4>
         </th>
         <th className="border-top-0 text-center text-white">
-          <h6>
+          <h5>
             $50.000,56 - 545,678 BTC
             <br />
             53,098ETH - 35,78 BTC
-          </h6>
+          </h5>
         </th>
         <th className="border-top-0 text-center text-warning2">
-          <h6>$554,678.0</h6>
+          <h5>$554,678.0</h5>
         </th>
         <th className="border-top-0 text-center text-success">
-          <h6>34%</h6>
-        </th>
-        <th className="border-top-0 text-center text-success">
-          <h6>$18.27</h6>
+          <h5>34%</h5>
         </th>
       </tr>
     </>

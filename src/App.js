@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ArchidaxDashboard from "./pages/ArchidaxDashboard";
 import Header from "./components/archidaxDashboard/Header";
+import NewsPage from "./pages/NewsPage";
 
 function App() {
   return (
@@ -10,6 +11,9 @@ function App() {
       <Switch>
         <Route exact path="/">
           <ArchidaxDashboard />
+        </Route>
+        <Route path="/news">
+          <NewsPage />
         </Route>
       </Switch>
     </Router>
