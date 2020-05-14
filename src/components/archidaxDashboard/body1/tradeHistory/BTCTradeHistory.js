@@ -14,10 +14,10 @@ export default function BTCTradeHistory() {
           271 BTC
         </th>
         <th className="border-top-0 text-center verticalCenter">
-          <button type="button" class="btn btn-danger">
+          <button type="button" class="btn btn-danger mr-1">
             Wallet
           </button>
-          <button type="button" class="btn btn-danger">
+          <button type="button" class="btn btn-danger ml-1">
             Trade
           </button>
         </th>
@@ -33,10 +33,10 @@ export default function BTCTradeHistory() {
           1 BTC
         </th>
         <th className="border-top-0 text-center verticalCenter">
-          <button type="button" class="btn btn-danger">
+          <button type="button" class="btn btn-danger mr-1">
             Wallet
           </button>
-          <button type="button" class="btn btn-danger">
+          <button type="button" class="btn btn-danger ml-1">
             Trade
           </button>
         </th>
@@ -52,10 +52,10 @@ export default function BTCTradeHistory() {
           1 BTC
         </th>
         <th className="border-top-0 text-center verticalCenter">
-          <button type="button" class="btn btn-danger">
+          <button type="button" class="btn btn-danger mr-1">
             Wallet
           </button>
-          <button type="button" class="btn btn-danger">
+          <button type="button" class="btn btn-danger ml-1">
             Trade
           </button>
         </th>
@@ -71,10 +71,10 @@ export default function BTCTradeHistory() {
           100 BTC
         </th>
         <th className="border-top-0 text-center verticalCenter">
-          <button type="button" class="btn btn-danger">
+          <button type="button" class="btn btn-danger mr-1">
             Wallet
           </button>
-          <button type="button" class="btn btn-danger">
+          <button type="button" class="btn btn-danger ml-1">
             Trade
           </button>
         </th>
