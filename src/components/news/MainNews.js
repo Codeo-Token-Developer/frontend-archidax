@@ -183,67 +183,19 @@ export default function MainNews() {
           <div className="col-4">
             <div>
               <div id="aside">
-                <form action="#" method="get" id="search">
-                  <p>
-                    <input
-                      type="text"
-                      size="20"
-                      className="input-text"
-                      value="Search our website"
-                      onfocus="if(this.value=='Search our website') this.value=''"
-                    />
-                    <input
-                      type="submit"
-                      value="Search"
-                      className="input-submit"
-                    />
-                  </p>
-                </form>
-                <h3>Sidebar Menu</h3>
+                <h3>Latest News</h3>
                 <ul className="menu liNone">
                   <li>
-                    <a href="#">Discussion</a>
+                    <a href="#">Template License</a>
                   </li>
                   <li>
-                    <a href="#">Authors</a>
+                    <a href="#">Template License</a>
                   </li>
                   <li>
-                    <a href="#">Blogs</a>
+                    <a href="#">Template License</a>
                   </li>
                   <li>
-                    <a href="#">Contact</a>
-                  </li>
-                </ul>
-                <h3>About</h3>
-                <p className="box">
-                  {" "}
-                  <img src="tmp/about-01.jpg" alt="" className="f-left" /> My
-                  name is Jessie Doe. I´m 26 years old and I´m living in the New
-                  York City.
-                  <br />
-                  <a href="#">More about me</a>{" "}
-                </p>
-                <h3 className="nomb">Sponsors</h3>
-                <ul className="sponsors">
-                  <li>
-                    <a href="#">Lorem ipsum dolor</a>
-                    <br />
-                    Donec libero. Suspendisse bibendum
-                  </li>
-                  <li>
-                    <a href="#">Dui pede condimentum</a>
-                    <br />
-                    Phasellus suscipit, leo a pharetra
-                  </li>
-                  <li>
-                    <a href="#">Condimentum lorem</a>
-                    <br />
-                    Tellus eleifend magna eget
-                  </li>
-                  <li>
-                    <a href="#">Donec mattis</a>
-                    <br />
-                    purus nec placerat bibendum
+                    <a href="#">Template License</a>
                   </li>
                 </ul>
               </div>
