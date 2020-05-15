@@ -23,7 +23,7 @@ export default function TRXTradeHistory() {
             <h5>271 BTC</h5>
           </td>
           <td className="border-top-0 text-center text-white verticalCenter">
-            <button type="button" class="btn btn-danger mr-1">
+            <button type="button" class="btn btn-primary mr-1">
               Wallet
             </button>
             <button type="button" class="btn btn-danger ml-1">
@@ -42,7 +42,7 @@ export default function TRXTradeHistory() {
             <h5>271 BTC</h5>
           </td>
           <td className="border-top-0 text-center text-white verticalCenter">
-            <button type="button" class="btn btn-danger mr-1">
+            <button type="button" class="btn btn-primary mr-1">
               Wallet
             </button>
             <button type="button" class="btn btn-danger ml-1">
@@ -61,7 +61,7 @@ export default function TRXTradeHistory() {
             <h5>271 BTC</h5>
           </td>
           <td className="border-top-0 text-center text-white verticalCenter">
-            <button type="button" class="btn btn-danger mr-1">
+            <button type="button" class="btn btn-primary mr-1">
               Wallet
             </button>
             <button type="button" class="btn btn-danger ml-1">
@@ -80,7 +80,7 @@ export default function TRXTradeHistory() {
             <h5>271 BTC</h5>
           </td>
           <td className="border-top-0 text-center text-white verticalCenter">
-            <button type="button" class="btn btn-danger mr-1">
+            <button type="button" class="btn btn-primary mr-1">
               Wallet
             </button>
             <button type="button" class="btn btn-danger ml-1">
