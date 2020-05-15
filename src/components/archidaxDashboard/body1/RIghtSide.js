@@ -1,8 +1,8 @@
 import React from "react";
 
 import Chat from "./Chat";
-import News from "./News";
-import BuyMarket from "./BuyMarket";
+import News from "./newsPage/News";
+import ShowMarket from "./ShowMarket";
 
 export default function RightSide() {
   return (
@@ -10,7 +10,7 @@ export default function RightSide() {
       <div className="card-group">
         <div className="card">
           <div className="card-body">
-            <BuyMarket />
+            <ShowMarket />
           </div>
         </div>
       </div>

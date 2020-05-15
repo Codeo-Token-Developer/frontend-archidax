@@ -4,7 +4,7 @@ export default function BitcoinTable() {
   return (
     <>
       <tr className="bg-subaru">
-        <th
+        <td
           className="border-top-0 text-center text-warning2 verticalCenter"
           style={{
             display: "flex",
@@ -20,20 +20,20 @@ export default function BitcoinTable() {
             style={{ height: "30px", paddingRight: "10px" }}
           />
           <h4>Bitcoin (BTC)</h4>
-        </th>
-        <th className="border-top-0 text-center text-white verticalCenter">
+        </td>
+        <td className="border-top-0 text-center text-white verticalCenter">
           <h5>
             $50.000,56 - 545,678 BTC
             <br />
-            53,098ETH - 35,78 BTC
+            53,098Etd - 35,78 BTC
           </h5>
-        </th>
-        <th className="border-top-0 text-center text-warning2 verticalCenter">
+        </td>
+        <td className="border-top-0 text-center text-warning2 verticalCenter">
           <h5>$554,678.0</h5>
-        </th>
-        <th className="border-top-0 text-center text-success verticalCenter">
+        </td>
+        <td className="border-top-0 text-center text-success verticalCenter">
           <h5>34%</h5>
-        </th>
+        </td>
       </tr>
     </>
   );

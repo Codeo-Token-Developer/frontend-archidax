@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Codeo() {
+export default function ShowCodeo() {
   return (
     <div className="row">
       <div className="col-4 text-white text-center p-0">
@@ -16,8 +16,8 @@ export default function Codeo() {
             Codeo
           </h3>
         </div>
-        <h6>0,4512683 BTC</h6>
-        <h6>-0,6%</h6>
+        <h4 className="m-0">0,4512683 BTC</h4>
+        <h4 className="m-0">-0,6%</h4>
         <button type="button" className="btn btn-link text-success">
           Buy
         </button>
@@ -26,15 +26,15 @@ export default function Codeo() {
         </button>
       </div>
       <div className="col-5 makeCenterRow">
-        <h4 className="text-white m-0">$349,795.90</h4>
-        <h6 className="text-warning2 m-0">0.1926.90 BTC</h6>
+        <h3 className="text-white m-0">$349,795.90</h3>
+        <h5 className="text-warning2 m-0">0.1926.90 BTC</h5>
         <br />
-        <h6 className="text-white m-0">$50.000,56-545,678 BTC</h6>
-        <h6 className="text-white m-0">53,098 ETH-35,78 UIC</h6>
+        <h5 className="text-white m-0">$50.000,56-545,678 BTC</h5>
+        <h5 className="text-white m-0">53,098 ETH-35,78 UIC</h5>
       </div>
       <div className="col-3 makeCenterRow ">
-        <h6 className="card-text text-success m-1">$15.88%</h6>
-        <h6 className="card-text text-danger m-0">$15.88%</h6>
+        <h5 className="card-text text-success m-1">$15.88%</h5>
+        <h5 className="card-text text-danger m-0">$15.88%</h5>
       </div>
     </div>
   );
