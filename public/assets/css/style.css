@@ -10242,3 +10242,8 @@ hr.thick {
   color: #333;
   font-weight: 600;
 }
+
+.text-newsdate {
+  color: #666666;
+  font-style: italic;
+}

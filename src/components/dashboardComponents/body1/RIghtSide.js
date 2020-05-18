@@ -1,8 +1,8 @@
 import React from "react";
 
 import Chat from "./Chat";
-import News from "./newsPage/News";
 import ShowMarket from "./ShowMarket";
+import News from "./newsPage/News";
 
 export default function RightSide() {
   return (

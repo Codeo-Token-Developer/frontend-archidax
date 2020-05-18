@@ -19,10 +19,7 @@ export default function ShowCodeo() {
         <h4 className="m-0">0,4512683 BTC</h4>
         <h4 className="m-0">-0,6%</h4>
         <button type="button" className="btn btn-link text-success">
-          Buy
-        </button>
-        <button type="button" className="btn btn-link text-danger">
-          Sell
+          Trade
         </button>
       </div>
       <div className="col-5 makeCenterRow">

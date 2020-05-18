@@ -1,8 +1,9 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import ArchidaxDashboard from "./pages/ArchidaxDashboard";
-import Header from "./components/archidaxDashboard/Header";
-import NewsPage from "./pages/NewsPage";
+
+import Header from "./components/dashboardComponents/Header";
+import Dashboard from "./pages/Dashboard";
+import News from "./pages/News";
 
 function App() {
   return (
@@ -10,10 +11,10 @@ function App() {
       <Header />
       <Switch>
         <Route exact path="/">
-          <ArchidaxDashboard />
+          <Dashboard />
         </Route>
         <Route path="/news">
-          <NewsPage />
+          <News />
         </Route>
       </Switch>
     </Router>
